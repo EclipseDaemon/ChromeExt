@@ -14,7 +14,7 @@
   <li><strong>Clone or Download this repository:</strong></li>
   <pre>
     <code>
-git clone https://github.com/yourusername/motivational-quotes-extension.git
+git clone https://github.com/EclipseDaemon/ChromeExt.git
     </code>
   </pre>
   <p>Alternatively, you can download the repository as a ZIP file and extract it on your computer.</p>
