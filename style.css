@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    width: 300px;
+    height:auto;
+    border-radius: 20px;
+    padding: 1rem;
+    background: rgb(254,223,223);
+background: radial-gradient(circle, rgba(254,223,223,1) 0%, rgba(237,224,218,1) 100%);
+}
+.title{
+    font-family: "Montserrat", sans-serif;
+}
+#quote{
+background: rgba(107, 24, 157, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(107, 24, 157, 0.3);
+margin: 1.5rem 0rem;
+padding: 10px;
+font-family: "Montserrat", sans-serif;
+font-size: 15px;
+}
+#generate{
+    cursor: pointer;
+    font-family: inherit;
+    padding: 5px 20px;
+    border: 1px solid ;
+    border-radius: 5px;
+}

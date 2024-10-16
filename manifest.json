@@ -1,10 +1,13 @@
 {
     "manifest_version": 3,
-    "name": "Random Number Generator",
+    "name": "Quote Generator",
     "version": "1.0",
-    "description": "Click to get a random number!",
+    "description": "Feeling unmotivated? Need a quick boost of inspiration? This simple Chrome extension delivers a random motivational quote every time you click the button.",
     "action": {
       "default_popup": "popup.html"
+    },
+    "icons":{
+      "128": "motivation.png"
     },
     "permissions": []
   }
